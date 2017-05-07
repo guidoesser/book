@@ -9,4 +9,4 @@
 
 Ich bekomme zehn Mal mehr Traffic von [Google](http://google.com/ "Google")
 als von [Yahoo](http://search.yahoo.com/ "Yahoo Search") oder
-[MSN](http://search.msn.com/ "MSN Se
+[MSN](http://search.msn.com/ ")MSN Search
